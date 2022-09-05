@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactAppFigmaUIWebDesign/static/css/main.267b1d76.css",
+    "main.js": "/ReactAppFigmaUIWebDesign/static/js/main.fb5c946a.js",
+    "static/js/787.b13fdd03.chunk.js": "/ReactAppFigmaUIWebDesign/static/js/787.b13fdd03.chunk.js",
+    "static/media/ai.png": "/ReactAppFigmaUIWebDesign/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/ReactAppFigmaUIWebDesign/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/ReactAppFigmaUIWebDesign/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/ReactAppFigmaUIWebDesign/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/ReactAppFigmaUIWebDesign/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/ReactAppFigmaUIWebDesign/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/ReactAppFigmaUIWebDesign/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/ReactAppFigmaUIWebDesign/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/ReactAppFigmaUIWebDesign/static/media/logo.d770a205daa8b23ef9fe85edd215779c.svg",
+    "index.html": "/ReactAppFigmaUIWebDesign/index.html",
+    "main.267b1d76.css.map": "/ReactAppFigmaUIWebDesign/static/css/main.267b1d76.css.map",
+    "main.fb5c946a.js.map": "/ReactAppFigmaUIWebDesign/static/js/main.fb5c946a.js.map",
+    "787.b13fdd03.chunk.js.map": "/ReactAppFigmaUIWebDesign/static/js/787.b13fdd03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.267b1d76.css",
+    "static/js/main.fb5c946a.js"
+  ]
+}
